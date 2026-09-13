@@ -2,7 +2,7 @@ name := "play-mysql-migrations"
 
 version := "1.0.0"
 
-scalaVersion := "3.8.1"
+scalaVersion := "3.9.0"
 
 libraryDependencies += guice
 libraryDependencies += evolutions
