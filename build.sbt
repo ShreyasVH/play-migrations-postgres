@@ -8,9 +8,9 @@ libraryDependencies += guice
 libraryDependencies += evolutions
 libraryDependencies += jdbc
 libraryDependencies += javaJpa
-libraryDependencies += "org.projectlombok" % "lombok" % "1.18.42" % "provided"
-libraryDependencies += "org.postgresql" % "postgresql" % "42.7.10"
-libraryDependencies += "org.hibernate.orm" % "hibernate-core" % "7.2.4.Final"
+libraryDependencies += "org.projectlombok" % "lombok" % "1.18.48" % "provided"
+libraryDependencies += "org.postgresql" % "postgresql" % "42.7.13"
+libraryDependencies += "org.hibernate.orm" % "hibernate-core" % "7.2.24.Final"
 
 Compile / javacOptions ++= Seq("-proc:full")
 
