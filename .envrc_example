@@ -1,8 +1,9 @@
-# sbt 1.12.2 path
+# sbt 1.13.0 path
 export PATH=
 
-# java 25.0.2 path
+# java 26.0.2 path
 export PATH=
+export JAVA_HOME=
 
 export PORT=
 
